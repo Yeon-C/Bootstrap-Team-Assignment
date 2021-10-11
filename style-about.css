@@ -1,0 +1,200 @@
+.pgrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
+  align-items: stretch;
+}
+.pgrid img {
+  border: 1px solid #ccc;
+  max-width: 100%;
+}
+
+#mainnav{
+  max-height:74px;
+}
+.navbar {
+  font-family: "Poppins", sans-serif !important;
+}
+
+.navbar a {
+  color: grey !important;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;
+}
+
+#Started {
+  font-size: 16px;
+  margin-left: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #0c63ff;
+}
+
+#navbarDropdown1 {
+  margin-left: 30px;
+  padding-left: 630px;
+}
+
+#navbarDropdown2 {
+  padding-left: 7px;
+}
+
+
+#carouselExampleCaptions{
+  width:auto;
+}
+
+
+#mycarouselT {
+  width: 140%;
+  height: 100%;
+  top: 38%;
+  background-position: center;
+  position: absolute;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#mycarousel {
+  height: 500px !important;
+}
+
+#build {
+  display: block;
+  font-size: 2em;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-size:40px;
+  font-weight:600;
+  line-height:54px;
+}
+#pitch {
+  display: block;
+  box-sizing:border-box;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  margin-bottom:80px;
+  margin-top:-10px;
+  font-size:16px;
+  text-align:center;
+  min-width:60px;
+  font-weight:600px;
+}
+#hireb{
+  margin-bottom:80px;
+}
+
+#rows{
+  margin-top: 120px;
+  margin-left:50px;
+}
+
+#rows p{
+  font-family: "Poppins", sans-serif !important;
+  text-align: center;
+  color: grey;
+  font-size:16px;
+}
+
+#rows h2{
+  font-family: "Poppins", sans-serif !important;
+  text-align: center;
+  font-weight:bold;
+  font-size: 24px;
+}
+
+#headingp h4{
+  font-family: "Poppins", sans-serif !important;
+  font-weight: bold;
+  font-size:28px;
+
+  margin-top:70px;  
+  text-align:center;
+}
+
+#headingp p{
+  font-family: "Poppins", sans-serif !important;
+  margin-top:20px;
+}
+
+.featurette h2{
+  font-family: "Poppins", sans-serif !important;
+  font-weight: bold;
+  font-size:28px;
+}
+
+.featurette p{
+  font-family: "Poppins", sans-serif !important;
+  font-size:16px;
+  color:grey;
+}
+
+iframe{
+  width: 100%;
+  height: 100%;
+}
+
+.banner-video{
+  margin: auto;
+  height:443px;
+  width:775px;
+  overflow: hidden;
+
+}
+
+#tcard{
+  background-color: #fff;
+  position: relative;
+  width: 100%;
+  border: solid 1px;
+  border-color: #e5e7ea;
+  height: 100%;
+  box-shadow: rgb(0 0 0 / 20%) 0px 4px 6px 0px;
+  padding: 0 2rem 2rem 2rem;
+  margin-top: -40px; 
+  padding-top: 100px; 
+  z-index: -1; 
+}
+
+#tcardpic{
+  border-style: solid;
+  border-color: #0C63FF;
+  border-radius: 50%; 
+  width: 96px; 
+  height: 96px; 
+  z-index: 5;
+  margin-left: 30px;
+}
+
+.section-content {
+  font-family: "Poppins" !important;
+}
+
+div.img-wrapper {
+  position: relative;
+  padding-top: 455px;
+  padding-bottom: 300px;
+  padding-left:100px;
+  padding-right:100px;
+  height: 0;
+  
+}
+div.img-wrapper iframe {
+  box-sizing: border-box;
+  background: url(https://f.hubspotusercontent40.net/hub/2577343/hubfs/Brand2Files/Untitled%20design%20%2829%29.png?width=2880&name=Untitled%20design%20%2829%29.png) center center no-repeat;
+  background-size: cover;
+  
+  padding: 11.9% 15.5% 14.8%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
