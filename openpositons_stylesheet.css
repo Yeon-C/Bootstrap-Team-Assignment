@@ -1,0 +1,122 @@
+* {
+    box-sizing: border-box;
+}
+
+
+#mainnav{
+  max-height:74px;
+}
+
+.navbar {
+  font-family: "Poppins", sans-serif !important;
+}
+
+.navbar a {
+  color: grey !important;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;
+}
+
+#Started {
+  font-size: 16px;
+  margin-left: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #0c63ff;
+}
+
+#navbarDropdown1 {
+  margin-left: 30px;
+  padding-left: 630px;
+}
+
+#navbarDropdown2 {
+  padding-left: 7px;
+}
+
+body {
+    margin-top: 85px !important;
+}
+
+body {
+    line-height: 1.5rem;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #87909e;
+    background-color: #fff;
+}
+
+#internal_content {
+    display: block !important;
+    padding-left: 100px !important;
+    padding-right: 100px !important;
+}
+
+p.summary {
+    color: #87909e
+    margin: 0px 0px 20px
+}
+
+
+h2 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 2.0rem;
+    margin-bottom: 1.0rem;
+    line-height: 2.7rem;
+}
+
+h2.title {
+    color: #0C63FF;
+    font-size: 32px;
+    font-family: Poppins;
+    font-weight: bold;
+}
+
+p.small, .small, small {
+    font-size: .8125rem;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.sr-footer-min {
+    padding: 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
